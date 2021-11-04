@@ -7,7 +7,6 @@ pip install pytube
 pip install moviepy
 '''
 
-from typing import Tuple
 from pytube import YouTube
 from moviepy.editor import *
 import os
